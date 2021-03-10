@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-subtitle: Just who the hell you think I am?
+title:
+subtitle:
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![](https://github.com/mdiephuis/mdiephuis.github.io/blob/31d731684d31d830c684a792318d66722d9fde56/images/IMG_0192-v200.jpg)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a ML researcher during office hours, alpine climber and photographer otherwise.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I lived in the Far East, Middle East, Australia, Europe, Australia again, and am currently in Geneva, Switzerland.
