@@ -3,14 +3,12 @@ layout: post
 title:  "Books"
 date:   2021-03-11 23:56:45
 ---
-## In progress
 
 ## 2021
-
-⋅⋅* Exhalation: *ted chiang*
+* Exhalation: *ted chiang*
 
 ## 2020
-
+* His Master's Voice: *Stanislaw Lem*
 * Straight to Hell : True Tales of Deviance, Debauchery, and Billion-dollar Deals, *John Lefevre*
 * A Promised Land:  *Barack Obama*
 * Convenience Store Woman: *Sayaka Murata*
@@ -30,6 +28,282 @@ date:   2021-03-11 23:56:45
 
 ## 2019
 
+* The Caves of Steel: *Isaac Asimov*
+* On the Clock: *Emily Guendelsberger*
+* Less Than Zero: *Bret Easton Ellis*
+* Mindf*ck: *Christopher Wylie*
+* Limitless: *Alan Glynn*
+* Permanent Record: *Edward Snowden*
+* To Kill a Mockingbird: *Harper Lee*
+* Homo Deus: A Brief History of Tomorrow: *Yuval Noah Harari*
+* Prelude to Foundation: *Isaac Asimov*
+* The Metamorphosis, in The Penal Colony,and Other Stories: *Kafka, Franz*
+* Revelation Space: *Alastair Reynolds*
+* Age of Ambition: *Evan Osnos*
+* Hella Nation: *Evan Wright*
+* The Looting Machine: *Tom Burgis*
+* 1Q84: *Haruki Murakami*
 
+## 2018
 
-## 
+* Strangers in Their Own Land: *Arlie Russell Hochschild*
+* The Fifth Risk: *Michael Lewis*
+* Born a Crime: *Trevor Noah*
+* Skin in the Game: Hidden Asymmetries in Daily Life: *Nassim Nicholas Taleb*
+* Fear And Loathing In Las Vegas: *Thompson, Hunter S.*
+* Semiosis: *Sue Burke*
+* Americana: *Bhu Srinivasan*
+* Fear: *Bob Woodward*
+* War Is a Racket: *Ventura, Jesse, Butler, Smedley Darlington*
+* Countdown to Zero Day: *Kim Zetter*
+* American Kingpin: *Nick Bilton*
+* Monsignor Quixote: *Greene, Graham*
+* Permutation City: *Greg Egan*
+* The Patrick Melrose Novels: Never Mind, Bad News, Some Hope, and Mother's Milk: *Edward St. Aubyn*
+* Blood Meridian: *Cormac McCarthy*
+* The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America: *Erik Larson*
+* The Long Walk: *Stephen King*
+* Accidental Empires: *Robert Cringely*
+* The Collected Stories of Philip K. Dick Vol. 3: *Philip K. Dick*
+* Second variety: *Philip K. Dick*
+* DISNEYLAND_WITH_THE_DEATH_PENALTY: *Unknown*
+* The Minority Report: *Philip K. Dick*
+* Leviathan Wakes: *James S.A. Corey*
+* One Bullet Away: *Nathaniel Fick*
+* Kafka on the shore: *Haruki Murakami*
+* Siddhartha: *Hermann Hesse*
+* The Road Back: *Erich Maria Remarque*
+* All Quiet on the Western Front: *Erich Maria Remarque*
+* Fire and Fury: *Michael Wolff*
+* Fooled by Randomness: *Nassim Nicholas Taleb*
+* Fifty Inventions That Shaped the Modern Economy: *Tim Harford*
+
+## 2017
+
+* The Logic of Life: *Tim Harford*
+* Incandescence: *Greg Egan*
+* Microserfs: *Douglas Coupland*
+* Griftopia: *Matt Taibbi*
+* Adapt: Why Success Always Starts with Failure: *Tim Harford*
+* Make Your Bed: *William H. Mcraven*
+* The Light of Other Days: *Arthur Clarke*
+* Nexus: *Ramez Naam*
+* The Big Short: Inside the Doomsday Machine: *Michael Lewis*
+* Dealers of Lightning: *Michael Hiltzik*
+* A Woman in Berlin : Eight Weeks in the Conquered City: A Diary: *Marta Hillers*
+* The Andromeda Strain: *Michael Crichton*
+* Hiroshima: *John Hersey*
+* When Breath Becomes Air: *Paul Kalanithi*
+* A Town Like Alice: *Nevil Shute*
+* Tau Zero: *Poul Anderson*
+* Virtual Light: *William Gibson*
+* Chaos Monkeys: *Antonio Garcia Martinez*
+* The Three-Body Problem: *Cixin Liu*
+* The Undoing Project: A Friendship That Changed Our Minds: *Michael Lewis*
+* The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal: *David E. Hoffman*
+* Hillbilly Elegy: A Memoir of a Family and Culture in Crisis: *J. D. Vance*
+* Wool Omnibus Edition: *Hugh Howey*
+* Snow Crash: *Neal Stephenson*
+* Stories of Your Life and Others: *Ted Chiang*
+* Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous: *Gabriella Coleman*
+* The Naked Sun: *Isaac Asimov*
+
+## 2016
+* The Dorito Effect: *Schatzker, Mark*
+* DIARY OF AN OXYGEN THIEF By Anonymous (The Oxygen Thief Diaries): *Anonymous*
+* Reminiscences Of A Stock Operator: *Edwin Lefevre*
+* Total Recall: My Unbelievably True Life Story: *Arnold Schwarzenegger*
+* High Rise (1987): *J.G. Ballard*
+* American Gods: *Neil Gaiman*
+* Johnny Mnemonic: *William  Gibson*
+* Kingpin: *Kevin Poulsen*
+* The Time Machine: *H. G. Wells*
+* Seveneves: *Neal Stephenson*
+* Emergency: *Neil Strauss*
+* Children of Time: *Adrian Tchaikovsky*
+* The Book of Strange New Things: *Michel Faber*
+* Dispatches: *Michael Herr*
+* The Sixth Extinction: An Unnatural History: *Elizabeth Kolbert*
+* The Short-Timers: *Gustav Hasford*
+* Solaris: *Stanislaw Lem*
+* Matterhorn: *Karl Marlantes*
+* A Rumor of War: *Philip Caputo*
+* A_Canticle_for_Leibowitz: *nan*
+* How to Fly a Horse: *Kevin Ashton*
+* Neuromancer: *William Gibson*
+* Consider Phlebas: *Iain M. Banks*
+* The Currents of Space: *Isaac Asimov*
+* Superforecasting: *Philip E. Tetlock*
+* The Virgin Suicides: *Jeffrey Eugenides*
+* Submission: *Michel Houellebecq*
+* The Next 100 Years: A Forecast for the 21st Century: *George Friedman*
+* No Country for Old Men: *Cormac Mccarthy*
+* The Most Dangerous Game: *Richard Connell*
+* Into the Wild: *Jon Krakauer*
+* Flowers for Algernon: *Daniel Keyes*
+* Self-Made Man: *Norah Vincent*
+* The Sirens of Titan: *Kurt Vonnegut*
+* The Love Affairs of Nathaniel P.: *Waldman, Adelle*
+
+## 2015
+* Guns, germs, and steel: the fates of human societies: *Jared M. Diamond*
+* The Knowledge: How to Rebuild Our World From Scratch: *Lewis Dartnell*
+* Complexity: A Guided Tour: *Melanie Mitchell*
+* Hackers & Painters: *Paul Graham*
+* Brave New Worlds: *Adams, John Joseph*
+* Automate This: *Christopher Steiner*
+* Primary Inversion: *Asaro, Catherine*
+* A Short History of Nearly Everything: *Bill Bryson*
+* The Great Gatsby: *Francis Scott Key Fitzgerald*
+* Forever Free: *Joe Haldeman*
+* Forever Peace: *Joe Haldeman*
+* The Forever War: *Joe Haldeman*
+* Charlie Wilson's War: *Crile, George*
+* Battle Royale: *Kōshun Takami*
+* Red Notice: A True Story of High Finance, Murder, and One Man's Fight for Justice: *Bill Browder*
+* When to Rob a Bank: ...And 131 More Warped Suggestions and Well-Intended Rants: *Steven D. Levitt*
+* In Defense of Food: *Pollan, Michael*
+* Models. Behaving. Badly: *Emanuel Derman*
+* Boomerang: *Lewis, Michael*
+* Why We Lost: *Daniel Bolger*
+* Mr. Penumbra's 24-Hour Bookstore: *Robin Sloan*
+* George R. R. Martin - Sandkings: *Sandkings v1.2*
+* It's What I Do: A Photographer's Life of Love and War: *Addario, Lynsey*
+* I, Robot: *Isaac Asimov*
+* Deep Simplicity: *John Gribbin*
+* The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution: *Walter Isaacson*
+* The Unwind Collection: *Neal Shusterman*
+* The Omnivore's Dilemma: A Natural History of Four Meals: *Pollan, Michael*
+* The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage: *Cliff Stoll*
+* The Martian: *Andy Weir*
+* Ken Segall: *Insanely Simple*
+* Do Androids Dream of Electric Sheep?: *Dick, Philip K.*
+* Requiem for a Dream: *Hubert Selby Jr*
+* Dit kan niet waar zijn: *Joris Luyendijk*
+* Slaughterhouse-Five: *Kurt Vonnegut*
+* Foundation and Empire: *Isaac Asimov*
+* Foundation: *Isaac Asimov*
+* In My Skin: *Holden, Kate*
+* The Undercover Economist Strikes Back: *Tim Harford*
+* Zero to One: *Peter Thiel*
+* Gomorrah: *Roberto Saviano*
+* Redeployment: *Phil Klay*
+
+## 2014
+
+* Imperial Life in the Emerald City: *Rajiv Chandrasekaran*
+* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China: *Osnos, Evan*
+* The Count of Monte Cristo (Unabridged Penguin): *Alexandre Dumas*
+* Chaos: *James Gleick*
+* Fahrenheit_451: *nan*
+* More Money Than God: Hedge Funds and the Making of a New Elite: *Sebastian Mallaby*
+* The Bang-Bang Club: *Greg Marinovich*
+* The Great Stagnation: *Cowen, Tyler*
+* Why I Left Goldman Sachs: A Wall Street Story: *Greg Smith*
+* Antifragile: Things That Gain From Disorder: *Nassim Nicholas Taleb*
+* Going Solo: *Dahl, Roald*
+* The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers: *Kevin Mitnick*
+* Status Anxiety: *Alain de Botton*
+* Yellow Birds: *Kevin Powers*
+* Exploding the Phone: The Untold Story of the Teenagers and Outlaws who Hacked Ma Bell: *Lapsley, Phil*
+* Wind, Sand and Stars: *Antoine de Saint-exupery*
+* Love and Math: *Frenkel, Edward*
+* Everything Is Bullshit: The greatest scams on Earth revealed: *Priceonomics*
+* The Physics of Wall Street: *James Owen Weatherall*
+* On The Beach: *Nevil  Shute*
+* Probably Approximately Correct: *Valiant, Leslie*
+* How To Win Friends And Influence People: *Carnegie, Dale*
+* A Mathematician Plays The Stock Market: *John Allen Paulos*
+* The Handmaid's Tale: *Margaret Atwood*
+* No Place to Hide: Edward Snowden, the NSA and the Surveillance State: *Glenn Greenwald*
+* Who Moved My Cheese: *Johnson, Spencer*
+* With Liberty and Justice for Some: How the Law Is Used to Destroy Equality and Protect the Powerful: *Glenn Greenwald*
+* Code: The Hidden Language of Computer Hardware and Software: *Charles Petzold*
+* Lies My Teacher Told Me: *Loewen, James W.*
+* Anon: *20ebooks*
+* The Upside of Irrationality: *Dan Ariely*
+* Thank You for Smoking: *Christopher Buckley*
+* The Crash of 2016: *Thom Hartmann*
+* Candide: *Voltaire*
+* Maiden Voyage: *Tania Aebi*
+* Young Money: Inside the Hidden World of Wall Street's Post-Crash Recruits: *Roose, Kevin*
+* The Road: *Cormac McCarthy*
+* I Am Legend: *Matheson, Richard*
+* How to Think More About Sex (The School of Life): *de Botton, Alain*
+* The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared: *Jonas Jonasson*
+* The Hot Zone: *Richard Preston*
+* Generals Die in Bed: *Charles Yale Harrison*
+* Essays in Love: *Alain De Botton*
+* War: *Sebastian Junger*
+* Stiff: The Curious Lives of Human Cadavers: *Mary Roach*
+* 3001: The Final Odyssey: *Clarke, Arthur C.*
+* 2061: Odyssey Three: *Clarke, Arthur C.*
+* Night: *Elie Wiesel; Marion Wiesel*
+* 2010: Odyssey Two: *Clarke, Arthur C.*
+* 2001 - A Space Odyssey: *Clarke, Arthur C.*
+* More Sex Is Safer Sex: *Steven E. Landsburg*
+* The Accidental Billionaires: *Ben Mezrich*
+
+## 2013
+* A Briefer History of Time: *Stephen Hawking*
+* Packing for Mars: *Roach, Mary*
+* In The Plex: *Steve Levy*
+* How Proust Can Change Your Life: *Alain De Botton*
+* What They Teach You at Harvard Business School: *nan*
+* An Astronaut's Guide to Life on Earth: *Chris Hadfield*
+* Without Their Permission: How the 21st Century Will Be Made, Not Managed: *Alexis Ohanian*
+* Generation Kill: *Evan Wright*
+* Enders Game 1 - Ender's Game: *Card, Orson Scott*
+* We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency: *Parmy Olson*
+* Bonk: *Roach, Mary*
+* The Tipping Point: *Malcolm Gladwell*
+* Rise of the Warrior Cop: *Radley Balko*
+* SuperFreakonomics: *Steven D. Levitt*
+* The Devil's Derivatives: The Untold Story of the Slick Traders and Hapless Regulators Who Almost Blew Up Wall Street . . . And Are Ready to Do It Again: *Nicholas Dunbar*
+* Outliers: The Story of Success: *Malcolm Gladwell*
+* The Forever War: *Dexter Filkins*
+* This Machine Kills Secrets: *Andy Greenberg*
+* The Black Swan: *Nassim Nicholas Taleb*
+* The Misbehavior of Markets: *Benoit Mandelbrot*
+* Not On the Label: What Really Goes into the Food on Your Plate: *Lawrence, Felicity*
+* Underground: *Suelette Dreyfus*
+* Steve Jobs: *Isaacson, Walter*
+* The Bookseller of Kabul: *Asne Seierstad*
+* Cyber War: The Next Threat to National Security and What to Do About It: *Richard A. Clarke*
+* WikiLeaks: *Harding, Luke*
+* Hackers, Heroes of the Computer Revolution / Chapters 1 and 2: *Steven Levy*
+* Fast Food Nation: What The All-American Meal is Doing to the World: *Schlosser, Eric*
+* The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It: *Scott Patterson*
+* The Buy Side: A Wall Street Trader's Tale of Spectacular Excess: *Duff, Turney*
+* The Wolf of Wall Street: *Jordan Belfort*
+* leaving las vegas: *John O’brien*
+* Bad Science: *Ben Goldacre*
+* The Undercover Economist: *Tim Harford*
+* The Shallows: *Nicholas Carr*
+* Predictably Irrational: *Dan Ariely*
+* Confessions of an Economic Hit Man: *John Perkins*
+* The Drunkard's Walk: *Leonard Mlodinow*
+* What the Dog Saw: And Other Adventures: *Malcolm Gladwell*
+* Confessions of a Wall Street Analyst: *Reingold, Dan*
+* Dark Pools: *Scott Patterson*
+* iWoz: *Steve Wozniak*
+* Contact: *Carl Sagan*
+* Starship Troopers: *Robert A. Heinlein*
+* Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker: *Mitnick, Kevin*
+* The Signal and the Noise: Why So Many Predictions Fail-but Some Don't: *Silver, Nate*
+* Het zijn net mensen: *Joris Luyendijk*
+* 0061240427: *nan*
+* Je hebt het niet van mij, maar… Een maand aan het Binnenhof (NL, 1987): *Joris Luyendijk*
+* The Curious Incident of the Dog in the Night-Time: *Mark Haddon*
+* Ender's Game: *Orson Scott Card*
+* 2001 - Life of Pi: *Yann Martel*
+* Chaos: *James Gleick*
+* Fahrenheit 451: *Ray Bradbury*
+* Kafka on the Shore: *Haruki Murakami*
+* Masters Of Doom: How Two Guys Created An Empire And Transformed Pop Culture: *David Kushner*
+* Rama 01 - Rendezvous With Rama: *Arthur C. Clarke*
+* The Fountainhead: *Ayn Rand*
+* Ender's Game: *Orson Scott Card*
+* Bad Pharma: *Ben Goldacre*
+* How to Teach Relativity to Your Dog: *Chad Orzel*
+* The Mind's I:*Douglas R. Hofstadter and Daniel C. Dennett*
