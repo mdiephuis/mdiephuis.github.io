@@ -4,6 +4,9 @@ title:  "Books"
 date:   2021-03-11 23:56:45
 ---
 
+## 2022
+* Catch-22: *Joseph Heller*
+
 ## 2021
 * Becoming Steve Jobs: *Brent Schlender*
 * Norwegian wood: *Haruki Murakami*
