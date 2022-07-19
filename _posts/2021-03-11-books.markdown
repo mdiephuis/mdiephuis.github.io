@@ -5,6 +5,7 @@ date:   2021-03-11 23:56:45
 ---
 
 ## 2022
+* Kitchen confidential: *Anthony Bourdain*
 * Attack of the 50 Foot Blockchain: *David Gerard*
 * Project Hail Mary: *Andy Weir* &#9733;
 * Klara and the sun: *Kazuo Ishiguro* &#9733; &#9733;
