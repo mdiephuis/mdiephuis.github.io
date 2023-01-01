@@ -70,14 +70,14 @@ date:   2021-03-11 23:56:45
 * Limitless: *Alan Glynn*
 * Permanent Record: *Edward Snowden*
 * To Kill a Mockingbird: *Harper Lee*
-* Homo Deus: A Brief History of Tomorrow: *Yuval Noah Harari*
+* Homo Deus: A Brief History of Tomorrow: *Yuval Noah Harari* &#9733;
 * Prelude to Foundation: *Isaac Asimov*
 * The Metamorphosis, in The Penal Colony,and Other Stories: *Kafka, Franz*
 * Revelation Space: *Alastair Reynolds*
-* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China: *Evan Osnos*
+* Age of Ambition: Chasing Fortune, Truth, and Faith in the New China: *Evan Osnos*  &#9733; &#9733; &#9733; 
 * Hella Nation: *Evan Wright*
 * The Looting Machine: *Tom Burgis*
-* 1Q84: *Haruki Murakami* &#9733; &#9733; &#9733; &#9733; 
+* 1Q84: *Haruki Murakami* &#9733; &#9733;  
 
 ## 2018
 
@@ -101,7 +101,7 @@ date:   2021-03-11 23:56:45
 * Accidental Empires: *Robert Cringely*
 * The Collected Stories of Philip K. Dick Vol. 3: *Philip K. Dick*
 * Second variety: *Philip K. Dick*
-* DISNEYLAND_WITH_THE_DEATH_PENALTY: *Unknown*
+* DISNEYLAND_WITH_THE_DEATH_PENALTY: *Philip K. Dick*
 * The Minority Report: *Philip K. Dick*
 * Leviathan Wakes: *James S.A. Corey*
 * One Bullet Away: *Nathaniel Fick*
@@ -262,7 +262,7 @@ date:   2021-03-11 23:56:45
 * Candide: *Voltaire*
 * Maiden Voyage: *Tania Aebi* &#9733; &#9733; &#9733; &#9733;
 * Young Money: Inside the Hidden World of Wall Street's Post-Crash Recruits: *Roose, Kevin*
-* The Road: *Cormac McCarthy*
+* The Road: *Cormac McCarthy* &#9733; &#9733; &#9733; &#9733;
 * I Am Legend: *Matheson, Richard*
 * How to Think More About Sex (The School of Life): *de Botton, Alain*
 * The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared: *Jonas Jonasson*
@@ -291,7 +291,7 @@ date:   2021-03-11 23:56:45
 * Enders Game 1 - Ender's Game: *Card, Orson Scott*
 * We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency: *Parmy Olson*
 * Bonk: *Roach, Mary*
-* The Tipping Point: *Malcolm Gladwell*
+* The Tipping Point: *Malcolm Gladwell* &#9733;
 * Rise of the Warrior Cop: *Radley Balko*
 * SuperFreakonomics: *Steven D. Levitt*
 * The Devil's Derivatives: The Untold Story of the Slick Traders and Hapless Regulators Who Almost Blew Up Wall Street . . . And Are Ready to Do It Again: *Nicholas Dunbar*
@@ -311,7 +311,7 @@ date:   2021-03-11 23:56:45
 * The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It: *Scott Patterson*
 * The Buy Side: A Wall Street Trader's Tale of Spectacular Excess: *Duff, Turney*
 * The Wolf of Wall Street: *Jordan Belfort*
-* leaving las vegas: *John O’brien*
+* Leaving las vegas: *John O’brien* &#9733; &#9733; &#9733; &#9733;
 * Bad Science: *Ben Goldacre*
 * The Undercover Economist: *Tim Harford*
 * The Shallows: *Nicholas Carr*
@@ -334,7 +334,7 @@ date:   2021-03-11 23:56:45
 * 2001 - Life of Pi: *Yann Martel* &#9733; &#9733; &#9733; &#9733; &#9733;
 * Chaos: *James Gleick*
 * Fahrenheit 451: *Ray Bradbury*
-* Kafka on the Shore: *Haruki Murakami* &#9733; &#9733; &#9733; &#9733; &#9733;
+* Kafka on the Shore: *Haruki Murakami* &#9733; &#9733; &#9733; &#9733;
 * Masters Of Doom: How Two Guys Created An Empire And Transformed Pop Culture: *David Kushner*
 * Rama 01 - Rendezvous With Rama: *Arthur C. Clarke* &#9733; &#9733; &#9733; &#9733;
 * The Fountainhead: *Ayn Rand*
