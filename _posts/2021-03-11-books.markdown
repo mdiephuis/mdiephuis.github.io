@@ -3,6 +3,9 @@ layout: post
 title:  "Books"
 date:   2021-03-11 23:56:45
 ---
+## 2024
+* The Deep Sky: A Novel *Yume Kitasei* &#9733;
+
 
 ## 2023
 * Number Go Up: *Zeke Faux*
