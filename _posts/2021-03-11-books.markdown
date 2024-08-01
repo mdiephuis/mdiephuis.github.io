@@ -5,6 +5,7 @@ date:   2021-03-11 23:56:45
 ---
 
 ## 2024
+* The Catcher in the Rye, J. D. Salinger
 * The Colorless Tsukuru Tazaki, Haruki Murakami
 * Unreasonable Behaviour, Don McCullen
 * The Veldt, Ray Bradbury
