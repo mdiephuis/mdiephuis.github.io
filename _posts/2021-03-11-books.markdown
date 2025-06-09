@@ -5,6 +5,7 @@ date:   2021-03-11 23:56:45
 ---
 
 ## 2025
+* A Fortunate Life, *Albert Facey*
 * The Year of Magical Thinking, *Joan Didion*
 * Man's Search for Meaning, *Viktor Frankl*
 * The world of yesterday, *Stefan Zweig*
