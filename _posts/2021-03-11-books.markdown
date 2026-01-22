@@ -3,6 +3,8 @@ layout: post
 title:  "Books"
 date:   2021-03-11 23:56:45
 ---
+## 2026
+* Journey to the End of the Night, Louis-Ferdinand Céline, &#9733; &#9733; &#9733;
 
 ## 2025
 * Notes on Being a Man, *Scott Galloway*
