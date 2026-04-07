@@ -4,11 +4,13 @@ title:  "Books"
 date:   2021-03-11 23:56:45
 ---
 ## 2026
+* A Short Stay in Hell, *Steven L. Peck*, &#9733; &#9733; &#9733;
 * Journey to the End of the Night, *Louis-Ferdinand Céline*, &#9733; &#9733; &#9733;
 * Flesh, *David Szalay*, &#9733; &#9733;
 * The Hitchhiker's Guide to the Galaxy, *Douglas Adams*, &#9733; &#9733;
 * Twenty Thousand Leagues Under the Seas, *Jules Verne*, &#9733; &#9733;
 * Probably Overthinking It, *Allen Downey*, &#9733; &#9733; &#9733;
+* How They Get You, *Chris Kohler*, &#9733; &#9733; &#9733;
 
 ## 2025
 * Notes on Being a Man, *Scott Galloway*
